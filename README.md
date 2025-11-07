@@ -1,36 +1,62 @@
-# React.js and Tailwind CSS Assignment
+# PLP Task Manager
 
-This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
+A modern, responsive task management application built with React and Tailwind CSS. This application showcases a complete implementation of essential React concepts, state management, API integration, and modern UI design principles.
 
-## Assignment Overview
+##  Live Demo
 
-You will:
-1. Set up a React project with Vite and Tailwind CSS
-2. Create reusable UI components
-3. Implement state management using React hooks
-4. Integrate with external APIs
-5. Style your application using Tailwind CSS
+My vercel link:
 
-## Getting Started
+## ✨ Key Features
 
-1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
-3. Install dependencies:
+### Task Management
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Filter tasks (All, Active, Completed)
+- Persistent storage with localStorage
+
+### Dynamic Content
+- API integration with infinite scrolling
+- Real-time search functionality
+- Loading states and error handling
+- Responsive grid layout
+
+### Modern UI/UX
+- Light/Dark theme switcher
+- Responsive design for all devices
+- Smooth animations and transitions
+- Clean, intuitive interface
+
+## 🛠️ Technical Stack
+
+- **Frontend Framework**: React 18
+- **Build Tool**: Vite
+- **Routing**: React Router DOM
+- **Styling**: Tailwind CSS
+- **State Management**: Context API & Custom Hooks
+- **Code Quality**: ESLint
+- **Language**: Modern JavaScript (ES6+)
+
+## 📦 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone [repository-url]
    ```
+
+2. Install dependencies:
+   ```bash
    npm install
    ```
-4. Start the development server:
-   ```
+
+3. Start development server:
+   ```bash
    npm run dev
    ```
 
-## Files Included
-
-- `Week3-Assignment.md`: Detailed assignment instructions
-- Starter files for your React application:
-  - Basic project structure
-  - Pre-configured Tailwind CSS
-  - Sample component templates
+4. Open in browser:
+   ```
+   http://localhost:5173
+   ```
 
 ## Requirements
 
@@ -68,3 +94,5 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Vite Documentation](https://vitejs.dev/guide/)
 - [React Router Documentation](https://reactrouter.com/) 
+
+#Screenshots of the Web APP
