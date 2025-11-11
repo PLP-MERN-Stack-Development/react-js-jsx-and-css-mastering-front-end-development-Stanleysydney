@@ -59,7 +59,7 @@
 - **useSearch**: Implements search functionality
 
 ## 🚀 Live Demo
-[View Live Demo](YOUR_VERCEL_LINK_HERE)
+my vercel link:
 
 ## 🛠️ Technical Improvements
 
